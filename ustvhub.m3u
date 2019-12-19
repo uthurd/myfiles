@@ -1,0 +1,348 @@
+#EXTM3U
+
+#EXTINF:-1, A & E
+http://stream.ustvhub.com:8081/live/ae.stream/playlist.m3u8
+
+#EXTINF:-1, ABC
+http://stream.ustvhub.com:8081/live/abc.stream/playlist.m3u8
+
+#EXTINF:-1, ABC NEWS
+http://stream.ustvhub.com:8081/live/abcnews.stream/playlist.m3u8
+
+#EXTINF:-1, AMC
+http://stream.ustvhub.com:8081/live/amc.stream/playlist.m3u8
+
+#EXTINF:-1, ANIMAL PLANET
+http://stream.ustvhub.com:8081/live/animalplanet.stream/playlist.m3u8
+
+#EXTINF:-1, AXS TV
+http://stream.ustvhub.com:8081/live/axs.stream/playlist.m3u8
+
+#EXTINF:-1, BEIN SPORTS
+http://stream.ustvhub.com:8081/live/bein.stream/playlist.m3u8
+
+#EXTINF:-1, BET
+http://stream.ustvhub.com:8081/live/bet.stream/playlist.m3u8
+
+#EXTINF:-1, BLOOMBERG
+http://stream.ustvhub.com:8081/live/bloomberg.stream/playlist.m3u8
+
+#EXTINF:-1, BOOMERANG
+http://stream.ustvhub.com:8081/live/boomerang.stream/playlist.m3u8
+
+#EXTINF:-1, BOUNCE
+http://stream.ustvhub.com:8081/live/bounce.stream/playlist.m3u8
+
+#EXTINF:-1, BRAVO
+http://stream.ustvhub.com:8081/live/bravo.stream/playlist.m3u8
+
+#EXTINF:-1, BTN
+http://stream.ustvhub.com:8081/live/btn.stream/playlist.m3u8
+
+#EXTINF:-1, CARTOON NETWORK
+http://stream.ustvhub.com:8081/live/cartoon.stream/playlist.m3u8
+
+#EXTINF:-1, CBS
+http://stream.ustvhub.com:8081/live/cbs.stream/playlist.m3u8
+
+#EXTINF:-1, CBS SPORTS
+http://stream.ustvhub.com:8081/live/cbsn.stream/playlist.m3u8
+
+#EXTINF:-1, CINEMAX
+http://stream.ustvhub.com:8081/live/cinemax.stream/playlist.m3u8
+
+#EXTINF:-1, ACTION MAX HD
+http://stream.ustvhub.com:8081/live/cinemaxaction.stream/playlist.m3u8
+
+#EXTINF:-1, MORE MAX
+http://stream.ustvhub.com:8081/live/cinemaxmoremax.stream/playlist.m3u8
+
+#EXTINF:-1, THRILLER MAX HD
+http://stream.ustvhub.com:8081/live/cinemaxthrillermax.stream/playlist.m3u8
+
+#EXTINF:-1, CMT
+http://stream.ustvhub.com:8081/live/cmt.stream/playlist.m3u8
+
+#EXTINF:-1, CNBC
+http://stream.ustvhub.com:8081/live/cnbc.stream/playlist.m3u8
+
+#EXTINF:-1, CNN
+http://stream.ustvhub.com:8081/live/cnn.stream/playlist.m3u8
+
+#EXTINF:-1, COMEDY CENTRAL
+http://stream.ustvhub.com:8081/live/comedycentral.stream/playlist.m3u8
+
+#EXTINF:-1, COOKING CHANNEL
+http://stream.ustvhub.com:8081/live/cooking.stream/playlist.m3u8
+
+#EXTINF:-1, THE CW
+http://stream.ustvhub.com:8081/live/cw.stream/playlist.m3u8
+
+#EXTINF:-1, DESTINATION AMERICA
+http://stream.ustvhub.com:8081/live/destination.stream/playlist.m3u8
+
+#EXTINF:-1, DISCOVERY 
+http://stream.ustvhub.com:8081/live/discovery.stream/playlist.m3u8
+
+#EXTINF:-1, DISCOVERY SCIENCE
+http://stream.ustvhub.com:8081/live/discoveryscience.stream/playlist.m3u8
+
+#EXTINF:-1, VELOCITY
+http://stream.ustvhub.com:8081/live/discoveryvelo.stream/playlist.m3u8
+
+#EXTINF:-1, DISNEY
+http://stream.ustvhub.com:8081/live/disney.stream/playlist.m3u8
+
+#EXTINF:-1, DISNEY JR
+http://stream.ustvhub.com:8081/live/disneyjunior.stream/playlist.m3u8
+
+#EXTINF:-1, DISNEY XD
+http://stream.ustvhub.com:8081/live/disneyxd.stream/playlist.m3u8
+
+#EXTINF:-1, DIY NETWORK
+http://stream.ustvhub.com:8081/live/diy.stream/playlist.m3u8
+
+#EXTINF:-1, E
+http://stream.ustvhub.com:8081/live/e.stream/playlist.m3u8
+
+#EXTINF:-1, EL REY
+http://stream.ustvhub.com:8081/live/elrey.stream/playlist.m3u8
+
+#EXTINF:-1, ESPN
+http://stream.ustvhub.com:8081/live/espn.stream/playlist.m3u8
+
+#EXTINF:-1, ESPN 2
+http://stream.ustvhub.com:8081/live/espn2.stream/playlist.m3u8
+
+#EXTINF:-1, ESPN 3
+http://stream.ustvhub.com:8081/live/espn3.stream/playlist.m3u8
+
+#EXTINF:-1, ESPN NEWS
+http://stream.ustvhub.com:8081/live/espnnews.stream/playlist.m3u8
+
+#EXTINF:-1, ESPN U
+http://stream.ustvhub.com:8081/live/espnu.stream/playlist.m3u8
+
+#EXTINF:-1, FOOD NETWORK
+http://stream.ustvhub.com:8081/live/foodnetwork.stream/playlist.m3u8
+
+#EXTINF:-1, FOX
+http://stream.ustvhub.com:8081/live/fox.stream/playlist.m3u8
+
+#EXTINF:-1, FOX NEWS
+http://stream.ustvhub.com:8081/live/foxnews.stream/playlist.m3u8
+
+#EXTINF:-1, FOX SPORTS 1
+http://stream.ustvhub.com:8081/live/foxsp1.stream/playlist.m3u8
+
+#EXTINF:-1, FOX SPORTS 2
+http://stream.ustvhub.com:8081/live/foxsp2.stream/playlist.m3u8
+
+#EXTINF:-1, FREEFORM
+http://stream.ustvhub.com:8081/live/usafreeform.stream/playlist.m3u8
+
+#EXTINF:-1, FX
+http://stream.ustvhub.com:8081/live/fx.stream/playlist.m3u8
+
+#EXTINF:-1, GOLF CHANNEL
+http://stream.ustvhub.com:8081/live/golf.stream/playlist.m3u8
+
+#EXTINF:-1, GAME SHOW NETWORK
+http://stream.ustvhub.com:8081/live/gsn.stream/playlist.m3u8
+
+#EXTINF:-1, H2
+http://stream.ustvhub.com:8081/live/h2.stream/playlist.m3u8
+
+#EXTINF:-1, HALLMARK
+http://stream.ustvhub.com:8081/live/hallmark.stream/playlist.m3u8
+
+#EXTINF:-1, HBO
+http://stream.ustvhub.com:8081/live/hboeast.stream/playlist.m3u8
+
+#EXTINF:-1, HBO 2
+http://stream.ustvhub.com:8081/live/hbo2.stream/playlist.m3u8
+
+#EXTINF:-1, HBO COMEDY
+http://stream.ustvhub.com:8081/live/hbocomedy.stream/playlist.m3u8
+
+#EXTINF:-1, HBO FAMILY
+http://stream.ustvhub.com:8081/live/hbofamily.stream/playlist.m3u8
+
+#EXTINF:-1, HBO SIGNATURE
+http://stream.ustvhub.com:8081/live/hbosignature.stream/playlist.m3u8
+
+#EXTINF:-1, HBO ZONE
+http://stream.ustvhub.com:8081/live/hbozone.stream/playlist.m3u8
+
+#EXTINF:-1, HGTV 
+http://stream.ustvhub.com:8081/live/hgtv.stream/playlist.m3u8
+
+#EXTINF:-1, HISTORY
+http://stream.ustvhub.com:8081/live/history.stream/playlist.m3u8
+
+#EXTINF:-1, INVESTIGATION DISCOVERY
+http://stream.ustvhub.com:8081/live/investdis.stream/playlist.m3u8
+
+#EXTINF:-1, ION
+http://stream.ustvhub.com:8081/live/ion.stream/playlist.m3u8
+
+#EXTINF:-1, LIFETIME
+http://stream.ustvhub.com:8081/live/lifetime.stream/playlist.m3u8
+
+#EXTINF:-1, LIFETIME MOVIE NETWORK
+http://stream.ustvhub.com:8081/live/lifetimemovies.stream/playlist.m3u8
+
+#EXTINF:-1, MGM
+http://stream.ustvhub.com:8081/live/mgm.stream/playlist.m3u8
+
+#EXTINF:-1, MLB
+http://stream.ustvhub.com:8081/live/mlb.stream/playlist.m3u8
+
+#EXTINF:-1, MSNBC
+http://stream.ustvhub.com:8081/live/msnbc.stream/playlist.m3u8
+
+#EXTINF:-1, MTV
+http://stream.ustvhub.com:8081/live/mtv.stream/playlist.m3u8
+
+#EXTINF:-1, MTV 2
+http://stream.ustvhub.com:8081/live/mtv2.stream/playlist.m3u8
+
+#EXTINF:-1, MTV LIVE
+http://stream.ustvhub.com:8081/live/mtvlive.stream/playlist.m3u8
+
+#EXTINF:-1, NATIONAL GEOGRAPHIC
+http://stream.ustvhub.com:8081/live/natgeo.stream/playlist.m3u8
+
+#EXTINF:-1, NATIONAL GEOGRAPHIC WILD
+http://stream.ustvhub.com:8081/live/natgeowild.stream/playlist.m3u8
+
+#EXTINF:-1, NBA TV
+http://stream.ustvhub.com:8081/live/nbatv.stream/playlist.m3u8
+
+#EXTINF:-1, NBC
+http://stream.ustvhub.com:8081/live/nbc.stream/playlist.m3u8
+
+#EXTINF:-1, NBCSN
+http://stream.ustvhub.com:8081/live/nbcsn.stream/playlist.m3u8
+
+#EXTINF:-1, NFL NETWORK
+http://stream.ustvhub.com:8081/live/nflnetwork.stream/playlist.m3u8
+
+#EXTINF:-1, NFL RED ZONE
+http://stream.ustvhub.com:8081/live/nflred.stream/playlist.m3u8
+
+#EXTINF:-1, NHL NETWORK
+http://stream.ustvhub.com:8081/live/nhlnetwork.stream/playlist.m3u8
+
+#EXTINF:-1, NICKELODEON
+http://stream.ustvhub.com:8081/live/nicklodeon.stream/playlist.m3u8
+
+#EXTINF:-1, NICKELODEON TOONS
+http://stream.ustvhub.com:8081/live/nicktoons.stream/playlist.m3u8
+
+#EXTINF:-1, OWN
+http://stream.ustvhub.com:8081/live/own.stream/playlist.m3u8
+
+#EXTINF:-1, OXYGEN
+http://stream.ustvhub.com:8081/live/oxygen.stream/playlist.m3u8
+
+#EXTINF:-1, PAC 12
+http://stream.ustvhub.com:8081/live/pac12.stream/playlist.m3u8
+
+#EXTINF:-1, PARAMOUNT NETWORK
+http://stream.ustvhub.com:8081/live/paramount.stream/playlist.m3u8
+
+#EXTINF:-1, SEC NETWORK
+http://stream.ustvhub.com:8081/live/secnetwork.stream/playlist.m3u8
+
+#EXTINF:-1, SHOWTIME
+http://stream.ustvhub.com:8081/live/showtime.stream/playlist.m3u8
+
+#EXTINF:-1, SHOWTIME 2
+http://stream.ustvhub.com:8081/live/showtime2.stream/playlist.m3u8
+
+#EXTINF:-1, SHOWTIME SHOWCASE
+http://stream.ustvhub.com:8081/live/showtimeshow.stream/playlist.m3u8
+
+#EXTINF:-1, SPECTRUM SPORTS NET
+http://stream.ustvhub.com:8081/live/specsportsnet.stream/playlist.m3u8
+
+#EXTINF:-1, SPIKE
+http://stream.ustvhub.com:8081/live/spike.stream/playlist.m3u8
+
+#EXTINF:-1, SPORTS NET ONTARIO
+http://stream.ustvhub.com:8081/live/snont.stream/playlist.m3u8
+
+#EXTINF:-1, SPORTS NET WORLD
+http://stream.ustvhub.com:8081/live/snw.stream/playlist.m3u8
+
+#EXTINF:-1, STARZ
+http://stream.ustvhub.com:8081/live/starz.stream/playlist.m3u8
+
+#EXTINF:-1, STARZ CINEMA
+http://stream.ustvhub.com:8081/live/starzcinema.stream/playlist.m3u8
+
+#EXTINF:-1, STARZ COMEDY
+http://stream.ustvhub.com:8081/live/starzcomedy.stream/playlist.m3u8
+
+#EXTINF:-1, STARZ EDGE
+http://stream.ustvhub.com:8081/live/starzedge.stream/playlist.m3u8
+
+#EXTINF:-1, STARZ ENCORE
+http://stream.ustvhub.com:8081/live/starzencore.stream/playlist.m3u8
+
+#EXTINF:-1, SYFY
+http://stream.ustvhub.com:8081/live/syfy.stream/playlist.m3u8
+
+#EXTINF:-1, TBS
+http://stream.ustvhub.com:8081/live/tbs.stream/playlist.m3u8
+
+#EXTINF:-1, TENNIS CHANNEL
+http://stream.ustvhub.com:8081/live/tennis.stream/playlist.m3u8
+
+#EXTINF:-1, THE WEATHER CHANNEL
+http://stream.ustvhub.com:8081/live/weather.stream/playlist.m3u8
+
+#EXTINF:-1, TLC
+http://stream.ustvhub.com:8081/live/tlc.stream/playlist.m3u8
+
+#EXTINF:-1, TNT
+http://stream.ustvhub.com:8081/live/tnt.stream/playlist.m3u8
+
+#EXTINF:-1, TRAVEL CHANNEL
+http://stream.ustvhub.com:8081/live/travel.stream/playlist.m3u8
+
+#EXTINF:-1, TRU TV
+http://stream.ustvhub.com:8081/live/trutv.stream/playlist.m3u8
+
+#EXTINF:-1, TSN 1
+http://stream.ustvhub.com:8081/live/tsn1.stream/playlist.m3u8
+
+#EXTINF:-1, TSN 2
+http://stream.ustvhub.com:8081/live/tsn2.stream/playlist.m3u8
+
+#EXTINF:-1, TSN 3
+http://stream.ustvhub.com:8081/live/tsn3.stream/playlist.m3u8
+
+#EXTINF:-1, TSN 4
+http://stream.ustvhub.com:8081/live/tsn4.stream/playlist.m3u8
+
+#EXTINF:-1, TSN 5
+http://stream.ustvhub.com:8081/live/tsn5.stream/playlist.m3u8
+
+#EXTINF:-1, TV LAND
+http://stream.ustvhub.com:8081/live/tvland.stream/playlist.m3u8
+
+#EXTINF:-1, USA NETWORK
+http://stream.ustvhub.com:8081/live/usanet.stream/playlist.m3u8
+
+#EXTINF:-1, VH1
+http://stream.ustvhub.com:8081/live/vh1.stream/playlist.m3u8
+
+#EXTINF:-1, VICELAND
+http://stream.ustvhub.com:8081/live/viceland.stream/playlist.m3u8
+
+#EXTINF:-1, WWE
+http://stream.ustvhub.com:8081/live/wwe.stream/playlist.m3u8
+
+
